@@ -63,4 +63,4 @@ router.push("/cart?step=3", {scroll:false});
         </form>
     )
 }
-export default ShippingForm
+export default ShippingForm;
