@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Clothes Brand",
-  description: "for clothes online",
+  description: "this is the best place to find clothes online",
 };
 
 export default function RootLayout({
